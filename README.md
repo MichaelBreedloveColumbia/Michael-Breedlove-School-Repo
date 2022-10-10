@@ -7,3 +7,7 @@ SourceMod plugin author for Team Fortress 2 for a few years now as a hobby. I th
 
 + Created this GitHub repository.
 + Added previous code demonstrating my understanding of constant, linear, and quadratic time.
+
+## Week 5: Fisher-Yates Shuffle
+
++ Added code demonstrating a basic Fisher-Yates shuffle.
