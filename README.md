@@ -11,3 +11,7 @@ SourceMod plugin author for Team Fortress 2 for a few years now as a hobby. I th
 ## Week 5: Fisher-Yates Shuffle
 
 + Added code demonstrating a basic Fisher-Yates shuffle.
+
+## Week 8: Data Structures
+
++ Added code demonstrating basic usage of arrays, stacks, queues, and dictionaries.
