@@ -1,8 +1,8 @@
-##Overview
+# Overview
 This assignment exists to demonstrate my understanding of data structures.
 In my program, I do this by generating 10 random numbers, writing them to an array, stack, queue, and dictionary, then printing the contents of those structures along with an explanation of each.
 
-##Arrays
+## Arrays
 An array is a collection of data stored in "slots", identified by a given numeric value. They start at 0, and can have a defined size or an undefined size, the latter of which is treated as infinite. Arrays are incredibly versatile, and can be used practically anywhere to great effect. They are by far the most common type of data structure, excelling in simplicity and swift look-ups, but there are rare circumstances in which other structures may be preferred. In situatons where you will always need to access the newest or oldest item in the collection, or where two objects of different types must be directly linked to each other, it is best to use a different data structure. However, in practically every other situation, an array is the best choice.
 
 ##Stacks
