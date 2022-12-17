@@ -24,6 +24,7 @@ namespace DataStructures
             ReadKey();
         }
 
+        //Generates random garbage data, to be stored in each of the four main collection types and later read.
         public void GenerateData()
         {
             for (int i = 0; i < DataCount; i++)
