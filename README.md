@@ -15,3 +15,7 @@ SourceMod plugin author for Team Fortress 2 for a few years now as a hobby. I th
 ## Week 8: Data Structures
 
 + Added code demonstrating basic usage of arrays, stacks, queues, and dictionaries.
+
+## Week 12: Searching
+
++ Added code demonstrating basic usage of linear, binary, and interpolation searches.
